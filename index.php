@@ -34,6 +34,8 @@
     </style>
 </head>
 <body>
+    <?php
+    ?>
     <div class="wrapper">
         <div class="content">
             <header class="header">
