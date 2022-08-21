@@ -61,10 +61,16 @@
                         <div class="header__authentication menu">
                             <ul class="menu_list">
                                 <li class="menu__list-item">
-                                    <a class= "header_menu__link" href="#">Log in</a>
+                                    <a class= "header_menu__link" href="#">Login</a>
                                 </li>
                                 <li class="menu__list-item ">
                                     <a class= "header_menu__link menu__link--border" href="#">Sign in</a>
+                                </li>
+                                <li class="menu__list-item">
+                                    <a class="header_menu__link" href="#">EN</a>
+                                    <button class="button__language">
+                                        <img src="img/nav_language.svg" alt="">
+                                    </button>
                                 </li>
                             </ul>
                         </div>        
@@ -163,10 +169,10 @@
                             <img class="card__image" src="img/card_3.svg" alt="">
                         </div>
                         <div class="block">
-                        <div class="card__country main__text">Full Europe</div>
-                        <div class="card__price main__text">$15k</div>
-                        <img class="card__navigate" src="img/navigation.svg" alt="">
-                        <div class="card__time main__text">28 Days Trip</div>
+                            <div class="card__country main__text">Full Europe</div>
+                            <div class="card__price main__text">$15k</div>
+                            <img class="card__navigate" src="img/navigation.svg" alt="">
+                            <div class="card__time main__text">28 Days Trip</div>
                         </div>
                     </div>
                 </div>
@@ -180,7 +186,7 @@
                         <div class="reserve__text subtitle">Book your next trip <br> In 3 easy steps</div>
                         <div class="reserver__block">
                             <div class="block__image">
-                                <img src="img/image_reserve_block.svg" alt="">
+                                <img src="img/reserve_block.svg" alt="">
                             </div>
                             <div class="reserve__content">
                                 <div class="reserve__subtitle main__text">Choose Destination</div>
@@ -189,7 +195,7 @@
                         </div>
                         <div class="reserver__block">
                             <div class="block__image">
-                                <img src="img/image_reserve_block_2.svg" alt="">
+                                <img src="img/reserve_block_2.svg" alt="">
                             </div>
                             <div class="reserve__content">
                                 <div class="reserve__subtitle main__text">Make Payment</div>
@@ -198,7 +204,7 @@
                         </div>
                         <div class="reserver__block">
                             <div class="block__image">
-                                <img src="img/image_reserve_block_3.svg" alt="">
+                                <img src="img/reserve_block_3.svg" alt="">
                             </div>
                             <div class="reserve__content">
                                 <div class="reserve__subtitle main__text">Reach Airport on Selected Date</div>
@@ -207,7 +213,7 @@
                         </div>
                     </div>
                     <div class="reserver__image">
-                        <img class="image_reserve"src="img/image_reserve.svg" alt="">
+                        <img class="image_reserve"src="img/reserve.svg" alt="">
                     </div>
                 </div>
             </div>
@@ -234,7 +240,7 @@
             </div>
         </div>
         <div class="subscribe">
-            <div class="container">
+            <div class="container container--grey">
                 <div class="subscribe__title">
                     <p class="subscribe__text main__text">Subscribe to get information, latest news and other <br> interesting offers about Cobham</p>
                 </div>
@@ -304,7 +310,7 @@
                             <div class="social__row">
                                 <button class="social__button icon__google">
                                     <div class="icon_button">
-                                        <img src="img/google-play.svg" alt="">
+                                        <img src="img/google_play.svg" alt="">
                                         <img src="img/google_text.svg" alt="">
                                     </div>
                                 </button>
